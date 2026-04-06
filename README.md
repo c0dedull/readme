@@ -16,7 +16,7 @@
 <table>
 <tr><td>🏷️ <b>Experience</b></td><td>2+ Years in Web Development</td></tr>
 <tr><td>📍 <b>Location</b></td><td>Cabadbaran, Philippines</td></tr>
-<tr><td>🔭 <b>Working on</b></td><td><a href="#">Your Current Project</a></td></tr>
+<tr><td>🔭 <b>Working on</b></td><td><a href="#">Job Listing Project (Personal)</a></td></tr>
 <tr><td>📫 <b>Contact</b></td><td><a href="mailto:zomarcallano.official@gmail.com">zomarcallano.official@gmail.com</a></td></tr>
 </table>
 
