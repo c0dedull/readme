@@ -24,11 +24,11 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat-square&logo=safari&logoColor=70a5fd)](https://yourwebsite.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-111?style=flat-square&logo=safari&logoColor=70a5fd)](https://profile.2077.me)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=flat-square&logo=linkedin&logoColor=70a5fd)](https://linkedin.com/in/jomarcallano)&nbsp;
 [![Gmail](https://img.shields.io/badge/Email-111?style=flat-square&logo=gmail&logoColor=70a5fd)](mailto:zomarcallano.official@gmail.com)&nbsp;
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-111?style=flat-square&logo=whatsapp&logoColor=70a5fd)](https://wa.me/YOUR_PHONE_NUMBER)&nbsp;
-[![Upwork](https://img.shields.io/badge/Upwork-111?style=flat-square&logo=upwork&logoColor=70a5fd)](https://upwork.com/freelancers/YOUR_PROFILE)
+[![Upwork](https://img.shields.io/badge/Upwork-111?style=flat-square&logo=upwork&logoColor=70a5fd)](https://www.upwork.com/freelancers/jomarcallano)
 
 </div>
 
@@ -77,7 +77,7 @@
 
 ---
 
-### Featured Projects
+<!--### Featured Projects
 
 <div align="center">
 
@@ -85,17 +85,17 @@
 [![Project](https://github-readme-stats.vercel.app/api/pin/?username=c0dedull&repo=YOUR_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117)](https://github.com/c0dedull/YOUR_REPO_2)
 
 </div>
-
 ---
+-->
 
 ### Stats
-
 <div align="center">
-
+<!--
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=c0dedull&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=70a5fd&title_color=70a5fd&text_color=a9b1d6&count_private=true"/>
 &nbsp;&nbsp;
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c0dedull&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=a9b1d6"/>
-
+-->
+  
 [![Streak](https://streak-stats.demolab.com/?user=c0dedull&theme=github-dark-blue&hide_border=true&background=0d1117&ring=70a5fd&fire=70a5fd&currStreakLabel=a9b1d6)](https://git.io/streak-stats)
 
 </div>
